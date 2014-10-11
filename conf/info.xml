@@ -3,13 +3,13 @@
     <title xml:lang="ko">아주아주아주 느린 애드온</title>
     <title xml:lang="en">Veryveryvery slow addon</title>
     <description xml:lang="ko">
-        아주아주아주 느린 답답한 애드온입니다.
+        아주아주아주 느린 답답한 애드온입니다. 애드온 사용중 답답함으로 인한 사망시 책임질수 없습니다.
     </description>
 	<description xml:lang="en">
         Useless addon that very slow.
     </description>
-     <version>1.0</version>
-    <date>2014-09-25</date>
+     <version>2.0</version>
+    <date>2014-10-11</date>
     <author email_address="yjsoft@yjsoft.pe.kr" link="http://yjsoft.pe.kr/">
         <name xml:lang="ko">YJSoft</name>
         <name xml:lang="vi">YJSoft</name>
